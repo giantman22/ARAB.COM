@@ -1,0 +1,101 @@
+body{
+    background-color: #E6E6E6;
+}
+.headernav{
+    height: 50PX;
+    width: 100%;
+    background-color: darkgrey;
+    position: relative;
+    left: 10px;
+   font-size: 20px;
+    
+}
+.headernav1{
+    position: relative; 
+    font-size:  20px;
+    bottom: 30px;
+    
+}
+a:link{
+     text-decoration: none;
+    color: white;
+    margin:30px;
+    
+}
+a:hover{
+    text-decoration: underline;
+    color: deepskyblue;
+    transition: 2s;
+}
+.header{
+    position: relative;
+   font-size: 40px;
+    top: 20px;
+    font-family:sans-serif;
+    -webkit-text-shadow: 10px 10px 10px red;
+   -moz-text-shadow: 10px 10px 10px red;
+    -o- text-shadow: 10px 10px 10px red;
+    text-shadow: 5px 2px 5px blue;
+                
+     
+}
+img{
+    height: 300px;
+    width: 300px;
+   transition: all 1s ease-in-out; 
+    background-color: #FAFAFA;
+    padding: 3px;
+    border: 1px solid #F2F2F2;
+    position: relative;
+    left: 370px;
+    top: 20px;
+}
+img:hover{
+    box-shadow:
+        10px 10px 20px #424242;
+       -10px-10px 20px #424242;
+    border-radius: 50%;
+ 
+}
+.divimge{
+    width: 900px;
+    height: 300px;
+    
+   
+}
+.img2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    left: 70px;
+    top: 100px;
+}
+
+.img2:hover{
+    background-image: url(سبحان الله.png);
+    
+}
+.divimg1{
+    width: 900px;
+    height: 80px;
+    background-color: firebrick;
+    position: relative;
+    left:  100px;
+    top: 20px;
+}
+.img3{
+    width: 24px;
+    height: 24px;
+    margin-left: 100px;
+    padding: 10px;
+    position: relative;
+    left: 5px;
+}
+.haeder1{
+    color: white;
+   
+    position: relative;
+    left: 200px;
+    bottom:  30px;
+}
